@@ -4,7 +4,7 @@
 **Affiliation:** University of Washington, Seattle, WA, USA  
 **Initial Publication Date:** November 27, 2025  
 **Status:** Prepared for submission  
-**Word Count:** Approximately 4,500 words (excluding references)
+**Word Count:** Approximately 3,130 words (excluding references)
 
 ---
 
