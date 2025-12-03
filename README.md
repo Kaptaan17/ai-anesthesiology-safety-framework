@@ -7,8 +7,6 @@
 - **Status:** Prepared for submission
 - **Word Count:** Approximately 3,130 words (excluding references)
 - **Status:** Prepared for submission  
-- **Word Count:** Approximately 3,130 words (excluding references)
-
 ---
 
 ## Description
