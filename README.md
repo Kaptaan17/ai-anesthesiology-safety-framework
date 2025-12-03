@@ -1,7 +1,8 @@
 # Artificial Intelligence in Anesthesiology: A Neuroscience-Informed Safety Framework for Clinical Implementation
 
 **Author:** Collin B. George, BS  
-**Affiliation:** University of Washington, Seattle, WA, USA  
+**Affiliation:** Independent Clinical Researcher & Premedical Student  
+(University of Washington; research not affiliated with or endorsed by UW Medicine)
 **Initial Publication Date:** November 27, 2025  
 **Status:** Prepared for submission  
 **Word Count:** Approximately 3,130 words (excluding references)
@@ -185,7 +186,7 @@ BibTeX entry:
 
 ## Contact Information
 
-**Collin B. George, BS**  
+**Collin B. George **  
 Independent Clinical Researcher & Medical School Applicant 
 University of Washington Medical Center  
 Seattle, WA, USA
